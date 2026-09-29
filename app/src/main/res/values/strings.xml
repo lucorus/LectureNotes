@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Конспектычи</string>
+
+    <string name="add_note">Новый конспект</string>
+    <string name="title_hint">Название конспекта</string>
+    <string name="category_hint">Категория (например: Матанализ)</string>
+    <string name="create">Создать</string>
+    <string name="cancel">Отмена</string>
+
+    <string name="record_audio">Записать лекцию</string>
+    <string name="stop_recording">Остановить запись</string>
+    <string name="import_audio">Загрузить аудиофайл</string>
+    <string name="replace_audio">Заменить аудио</string>
+    <string name="play">Слушать</string>
+    <string name="pause">Пауза</string>
+    <string name="no_audio">Аудио ещё не добавлено</string>
+
+    <string name="transcribe_button">Распознать текст</string>
+    <string name="summarize_button">Сделать конспект</string>
+    <string name="transcript_hint">Здесь появится расшифровка</string>
+    <string name="summary_hint">Здесь появится конспект</string>
+
+    <string name="settings">Настройки</string>
+    <string name="groq_key_hint">Groq API ключ (распознавание речи)</string>
+    <string name="gemini_key_hint">OpenRouter API ключ (конспектирование)</string>
+    <string name="save">Сохранить</string>
+
+    <string name="error_no_audio">Сначала добавьте аудиофайл</string>
+    <string name="error_no_transcript">Сначала распознайте или введите текст лекции</string>
+    <string name="error_no_groq_key">Укажите Groq API ключ в настройках</string>
+    <string name="error_no_gemini_key">Укажите OpenRouter API ключ в настройках</string>
+
+    <string name="delete_audio">Удалить аудио</string>
+    <string name="delete_audio_confirm">Удалить аудиофайл? Текст и конспект останутся.</string>
+    <string name="delete_note_confirm">Конспект удалён</string>
+    <string name="undo">Отменить</string>
+    <string name="all_categories">Все категории</string>
+    <string name="filter_by_category">Категория</string>
+    <string name="delete">Удалить</string>
+    <string name="cancel_dialog">Отмена</string>
+
+    <string name="copy_transcript">Копировать текст</string>
+    <string name="download_md">Скачать конспект (.md)</string>
+    <string name="copied_to_clipboard">Текст скопирован</string>
+    <string name="md_saved">Файл сохранён</string>
+</resources>

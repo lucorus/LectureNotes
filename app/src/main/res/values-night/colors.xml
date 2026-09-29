@@ -1,0 +1,14 @@
+<resources>
+    <color name="purple_500">#B199E8</color>
+    <color name="purple_700">#4A3780</color>
+    <color name="purple_100">#E1BEE7</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey_light">#2A2A2A</color>
+    <color name="grey_medium">#B0B0B0</color>
+    <color name="grey_dark">#424242</color>
+    <color name="background_light">#FAFAFA</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="background_dark">#121212</color>
+    <color name="surface_dark">#1E1E1E</color>
+</resources>
